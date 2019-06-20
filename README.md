@@ -1,4 +1,6 @@
-# eeprom-writer forked from https://github.com/oddblk/eeprom-writer
+# eeprom-writer
+
+forked from https://github.com/oddblk/eeprom-writer
 
 Arduino firmware for EEPROM Writer project.
 
@@ -8,7 +10,7 @@ For project documentation, refer to http://danceswithferrets.org/geekblog/?page_
 
 Distributed under an acknowledgement licence, because I'm a shallow, attention-seeking tart. :)
 
-=================================================================================================
+===========================================================================
 Thanks to oddblk from http://www.danceswithferrets.org/ for the original idea & code 
 
 Changes from original version:
