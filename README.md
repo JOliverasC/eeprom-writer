@@ -14,8 +14,11 @@ Distributed under an acknowledgement licence, because I'm a shallow, attention-s
 Thanks to oddblk from http://www.danceswithferrets.org/ for the original idea & code 
 
 Changes from original version:
+
 1).-Implement JEDEC Standard Software Data Protection command sequence (already implemented but now with full addresses)
+
 2).-Implement JEDEC Chip-Erase operation void BlankEEPROM()
+
 3).-Implement Page Program (Or Page Write) because I try to program a SST29EE010 memory and every time a program 16 bytes, the current page was erased. Now the program receives 127 bytes and then writes them all 
 
 I also wrote a C# clone of eewriter (http://danceswithferrets.org/geekblog/?p=924) and I will release the source code. It's mandatory in order to use the Page Write functionality   
